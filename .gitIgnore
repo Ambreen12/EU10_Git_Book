@@ -1,4 +1,6 @@
 .idea
 *.iml
 out
-secret.text
+secret.txt
+.funtxt
+
