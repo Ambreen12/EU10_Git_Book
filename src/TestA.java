@@ -4,4 +4,5 @@ public class TestA {
     // what will happens next
     //
      // now what next
+    // ok
 }
